@@ -1,0 +1,11 @@
+.ExercisesTwoBox {
+    width: 5%;
+    margin: 8px;
+    border: 1px solid #ffffff;
+    box-shadow: 0 2px 3px hsl(180, 46%, 49%);
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    display: inline-block;
+    
+}

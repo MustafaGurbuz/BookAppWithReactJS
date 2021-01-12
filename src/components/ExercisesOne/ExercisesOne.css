@@ -1,0 +1,10 @@
+.Exercises {
+    width: 40%;
+    margin: 13px auto;
+    background-color: aqua;
+    border: 1px solid #ffffff;
+    box-shadow: 0 2px 3px hsl(0, 46%, 49%);
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+}

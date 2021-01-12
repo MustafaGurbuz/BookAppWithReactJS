@@ -1,0 +1,56 @@
+[
+     {
+        "id": 1,
+        "title" : "Chess",
+        "author" : "Stefan Zweig",
+        "publisher" : "Can Yayinlari"
+     },
+     {
+        "id": 2,
+        "title" : "Yer Altından Notlar",
+        "author" : "Dostoyevski",
+        "publisher" : "Şafak Yayınları"
+     },
+     {
+      "id": 3,
+      "title" : "Olasılıksız",
+      "author" : "Adam Fawer",
+      "publisher" : "April Yayıncılık"
+      },
+     {
+      "id": 4,
+      "title" : "Kiralık Konak",
+      "author" : "Y.Kadri Karaosmanoğlu",
+      "publisher" : "İletişim Yayıncılık"
+      },
+      {
+       "id": 5,
+       "title" : "Simyacı",
+       "author" : "Paul Guelho",
+       "publisher" : "İletişim Yayıncılık"
+       },
+       {
+        "id": 6,
+        "title" : "1984",
+        "author" : "George Orwell",
+        "publisher" : "Göz Yayıncılık"
+        },
+        {
+         "id": 7,
+         "title" : "Cesur Yeni Dünya",
+         "author" : "Aldous Huxley",
+         "publisher" : "Papatya Yayıncılık"
+         },
+         {
+          "id": 8,
+          "title" : "Karamazov Kardeşler",
+          "author" : "Dostoyevski",
+          "publisher" : "Güneş Yayıncılık"
+          },
+          {
+           "id": 9,
+           "title" : "Yaprak Dökümü",
+           "author" : "Reşat Nuri Güntekin",
+           "publisher" : "İletişim Yayıncılık"
+           }
+]
